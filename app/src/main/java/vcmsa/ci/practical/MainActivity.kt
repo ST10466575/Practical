@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
-        setContentView(R.layout.activity_main)
+        setContentView(R.layout.activity_main) // comment
 
         val itemName = findViewById<EditText>(R.id.itemName)
         val quantity = findViewById<EditText>(R.id.quantity)
