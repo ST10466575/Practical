@@ -39,6 +39,7 @@ class MainActivity : AppCompatActivity() {
                     itemName.text.clear()
                     quantity.text.clear()
                 }
+            // bhgfytdystaedyfugihlj
             }
         }
 
